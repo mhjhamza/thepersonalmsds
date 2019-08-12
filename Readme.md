@@ -3,13 +3,17 @@
 
 **The Personal MS(DS)** is an initiative to customize the Data Science Masters roadmap according to one's interests hence providing complete autonomy to the learner. The intuition behind **#thepersonalmsds** is to upgrade skills without formally enrolling into a Master's program at a University. ThePersonalMSDS (beta) is an amalgam of handpicked content taught at different Pakistan-based and International universities based on the student’s feedback. Majority of the content mentioned in **#thepersonalmsds** can be easily found online. Most of the topics revolve around Mathematics, Statistics, Machine Learning, Deep Learning, Data Science, AWS Cloud Services, and Big Data. Each mini-semester revolves around a particular domain; each mini-semester contains a hand-full of languages, frameworks and libraries.
 
-**Note: Feel free to actively contribute in the MS roadmap; If you come across a decent learning material [either paid or free] create a pull request. Contributors will be given credits by referring to their Linkedin / Github profile.**
+![thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/begins.jpg "So, thepersonalMSDS Begins!")
 
 Keep an eye on my progress using this TIL file: [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
 
 This idea is inspired by Josh Kaufman's [**The Personal MBA**](https://personalmba.com/) - a highly recommended book.
 
 My last-year ML challenge can be found here: [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
+
+**Note: Feel free to actively contribute in the MS roadmap; If you come across a decent learning material [either paid or free] create a pull request.**
+
+*Contributors will be given credits by referring to their Linkedin / Github profile.*
 
 
 # MSDS Roadmap
