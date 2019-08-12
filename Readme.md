@@ -5,7 +5,7 @@
 
 **Note: Feel free to actively contribute in the MS roadmap; If you come across a decent learning material [either paid or free] create a pull request. Contributors will be given credits by referring to their Linkedin / Github profile.**
 
-Previous work: [#100DaysOfMLCode]([https://github.com/mhjhamza/100DaysOfMLCode](https://github.com/mhjhamza/100DaysOfMLCode))
+Previous work: [#100DaysOfMLCode](https://github.com/mhjhamza/100DaysOfMLCode)
 
 # MSDS Roadmap
 The tentative roadmap covers four mini-semesters in ~4-6 months:
@@ -34,7 +34,7 @@ The tentative roadmap covers four mini-semesters in ~4-6 months:
 - AWS Big Data (Speciality)
 
 # About me
-Muhammad Hamza Javed is an AWS Certified Solutions Architect - Associate, an AWS Certified Developer, a Packt Author, and a Data Science enthusiast primarily working on Machine Learning, Deep Learning, and Computer Vision. He possesses a Bachelor's Degree in Computer Science from GC University and forty-five (45) certificates in Data Science, Machine Learning, Deep Learning, and Big Data from AWS, Coursera and LinkedIn.
+**Muhammad Hamza Javed** is an AWS Certified Solutions Architect - Associate, an AWS Certified Developer, a Packt Author, and a Data Science enthusiast primarily working on Machine Learning, Deep Learning, and Computer Vision. He possesses a Bachelor's Degree in Computer Science from GC University and forty-five (45) certificates in Data Science, Machine Learning, Deep Learning, and Big Data from AWS, Coursera and LinkedIn.
 
 Recent Accomplishments as of 2019:  
 1) AWS Certified Solutions Architect - Associate  
