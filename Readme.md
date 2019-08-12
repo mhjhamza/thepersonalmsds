@@ -15,28 +15,18 @@ My last-year ML challenge can be found here: [**#100DaysOfMLCode**](https://gith
 # MSDS Roadmap
 The tentative roadmap covers four mini-semesters in ~4-6 months:
 
-**Mini-semester 1:**
 -   Personal Development
 -   Mathematics
 -   Statistics
 -   Big Data
-- [TBD]
-
-**Mini-semester 2:**
-
 -   Machine Learning
 -   Deep Learning
-- [TBD]
-
-**Mini-semester 3:**
-
--  Data Science
-- [TBD]
-
-**Mini-semester 4:**
+-   Data Science
 -   Final Kaggle/Project
-- AWS Machine Learning (Speciality)
-- AWS Big Data (Speciality)
+
+**Milestones**
+-   AWS Machine Learning (Speciality)
+-   AWS Big Data (Speciality)
 
 # About me
 **Muhammad Hamza Javed** is an AWS Certified Solutions Architect - Associate, an AWS Certified Developer, a Packt Author, and a Data Science enthusiast primarily working on Machine Learning, Deep Learning, and Computer Vision. He possesses a Bachelor's Degree in Computer Science from GC University and forty-five (45) certificates in Data Science, Machine Learning, Deep Learning, and Big Data from AWS, Coursera and LinkedIn.
