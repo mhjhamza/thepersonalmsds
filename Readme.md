@@ -5,7 +5,12 @@
 
 **Note: Feel free to actively contribute in the MS roadmap; If you come across a decent learning material [either paid or free] create a pull request. Contributors will be given credits by referring to their Linkedin / Github profile.**
 
-Previous work: [#100DaysOfMLCode](https://github.com/mhjhamza/100DaysOfMLCode)
+Keep an eye on my progress using this TIL file: [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
+
+This idea is inspired by Josh Kaufman's [**The Personal MBA**](https://personalmba.com/) - a highly recommended book.
+
+My last-year ML challenge can be found here: [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
+
 
 # MSDS Roadmap
 The tentative roadmap covers four mini-semesters in ~4-6 months:
