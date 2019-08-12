@@ -44,7 +44,7 @@ Recent Accomplishments as of 2019:
 5) 100DaysOfMLCode
 
 
-Contact: [Linkedin](http://linkedin.com/in/MuhammadHamzaJaved) | [Kaggle]() | [Facebook]([https://facebook.com/mhjhamza](https://web.facebook.com/mhjhamza)) | [Packt]([https://www.packtpub.com/authors/muhammad-hamza-javed](https://www.packtpub.com/authors/muhammad-hamza-javed))
+Contact: [Linkedin](http://linkedin.com/in/MuhammadHamzaJaved) | [Kaggle](https://www.kaggle.com/hamzajaved) | [Facebook](https://facebook.com/mhjhamza) | [Packt](https://www.packtpub.com/authors/muhammad-hamza-javed)
 
 
 
