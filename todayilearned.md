@@ -1,7 +1,20 @@
 # Today I Learned (TIL)
 
+## Pilot | August 12, 2019 | Monday
 
-## Pilot | August 11, 2019 | Sunday
+**Today's Progress:** 
+
+- Setup Repository for #thepersonalmsds
+- Created template for Social Media
+- Facebook Page setup
+- Enroled in PySpark Course @Udemy
+
+**Description:** *None*
+
+**Important Links:** [Udemy | Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+
+
+## Day 01 | August 13, 2019 | Tuesday
 
 **Today's Progress:** Learning PySpark!
 
@@ -12,13 +25,3 @@
 - Machine Learning with MLlib.
 
 **Important Links:** [Udemy | Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
-
-----------------------------
-## Day 01 | August 12, 2019 | Monday
-
-**Today's Progress:** Setup Repository for #thepersonalmsds
-
-**Description:** *None*
-
-**Important Links:** *None*
-
