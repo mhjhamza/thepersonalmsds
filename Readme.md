@@ -3,7 +3,7 @@
 
 **The Personal MS(DS)** is an initiative to customize the Data Science Masters roadmap according to one's interests hence providing complete autonomy to the learner. The intuition behind **#thepersonalmsds** is to upgrade skills without formally enrolling into a Master's program at a University. ThePersonalMSDS (beta) is an amalgam of handpicked content taught at different Pakistan-based and International universities based on the student’s feedback. Majority of the content mentioned in **#thepersonalmsds** can be easily found online. Most of the topics revolve around Mathematics, Statistics, Machine Learning, Deep Learning, Data Science, AWS Cloud Services, and Big Data. Each mini-semester revolves around a particular domain; each mini-semester contains a hand-full of languages, frameworks and libraries.
 
-![thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/main-cover.jpg "So, thepersonalMSDS Begins!")
+![thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/cover.jpg "So, thepersonalMSDS Begins!")
 
 
 ### Links that you should keep visiting
