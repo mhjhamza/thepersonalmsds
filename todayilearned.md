@@ -29,7 +29,7 @@
 
 **Important Links:** [Udemy | Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
 
-## Day 02 | August 14, 2019 | Tuesday
+## Day 02 | August 14, 2019 | Wednesday
 
 
 **Today's Progress:** Machine Learning with PySpark!
