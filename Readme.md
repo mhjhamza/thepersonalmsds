@@ -11,12 +11,26 @@
 | -- | -- | 
 | Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
 | My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
+| Books | Click here! |
+| Tedtalks | Click here! |
+--------------------------------------
 
 ### Course wise content and self-studying material
 #### This contain links to all the relevant books, courses, videos and specializations
 | Course Title | Link |
 | -- | -- | 
-| Statistics 101 | [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/Statistics.md)
+| Personal Development | Click here! |
+| Statistics | [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/Statistics.md)
+| Mathematics | Click here!|
+| Big Data | Click here!|
+| Mathematics | Click here!|
+| Machine Learning | Click here!|
+| Deep Learning | Click here!|
+| Data Science | Click here!|
+| AWS Machine Learning (Speciality) | Click here! |
+| AWS Big Data (Speciality) | Click here! |
+
+--------------------------------------
 
 ### University wise MS(DS) Roadmaps (National/International)
 | University | MSDS Roadmap |
@@ -26,7 +40,7 @@
 |  **Please contribute more roadmaps** | **Thanks!**
 
 
-
+--------------------------------------
 **Note:** Feel free to actively contribute in the MS roadmap; If you come across a decent learning material [either paid or free] create a pull request. Contributors will be given credits by referring to their Linkedin / Github profile.
 
 ### How can I contribute?
