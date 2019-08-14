@@ -12,7 +12,7 @@
 | Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
 | My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
 | Books | Click here! |
-| Tedtalks | Click here! |
+| Tedtalks - Making Sense of too much data | [Click here!](https://www.ted.com/playlists/56/making_sense_of_too_much_data) |
 --------------------------------------
 
 ### Course wise content and self-studying material
