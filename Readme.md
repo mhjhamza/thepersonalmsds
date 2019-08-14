@@ -3,17 +3,40 @@
 
 **The Personal MS(DS)** is an initiative to customize the Data Science Masters roadmap according to one's interests hence providing complete autonomy to the learner. The intuition behind **#thepersonalmsds** is to upgrade skills without formally enrolling into a Master's program at a University. ThePersonalMSDS (beta) is an amalgam of handpicked content taught at different Pakistan-based and International universities based on the student’s feedback. Majority of the content mentioned in **#thepersonalmsds** can be easily found online. Most of the topics revolve around Mathematics, Statistics, Machine Learning, Deep Learning, Data Science, AWS Cloud Services, and Big Data. Each mini-semester revolves around a particular domain; each mini-semester contains a hand-full of languages, frameworks and libraries.
 
-![thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/begins.jpg "So, thepersonalMSDS Begins!")
+![thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/main-cover.jpg "So, thepersonalMSDS Begins!")
 
-Keep an eye on my progress using this TIL file: [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
 
-This idea is inspired by Josh Kaufman's [**The Personal MBA**](https://personalmba.com/) - a highly recommended book.
+### Links that you should keep visiting
+| Important Links | Link |
+| -- | -- | 
+| Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
+| My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
 
-My last-year ML challenge can be found here: [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
+### Course wise content and self-studying material
+#### This contain links to all the relevant books, courses, videos and specializations
+| Course Title | Link |
+| -- | -- | 
+| Statistics 101 | [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/Statistics.md)
 
-**Note: Feel free to actively contribute in the MS roadmap; If you come across a decent learning material [either paid or free] create a pull request.**
+### University wise MS(DS) Roadmaps (National/International)
+| University | MSDS Roadmap |
+| -- | -- | 
+| ITU - Information Technology University | [**ITU Lahore MS(DS) Roadmap**](https://github.com/mhjhamza/thepersonalmsds/blob/master/UniversityMSDS-Roadmaps/ITU-Information-Technology-University.md)
+| FAST Lahore | [**FAST Lahore MS(DS) Roadmap**](https://github.com/mhjhamza/thepersonalmsds/blob/master/UniversityMSDS-Roadmaps/FAST-MSDS-Roadmap.md)
+|  **Please contribute more roadmaps** | **Thanks!**
 
-*Contributors will be given credits by referring to their Linkedin / Github profile.*
+
+
+**Note:** Feel free to actively contribute in the MS roadmap; If you come across a decent learning material [either paid or free] create a pull request. Contributors will be given credits by referring to their Linkedin / Github profile.
+
+### How can I contribute?
+- Contribute by sharing your universities MS(DS) Roadmap.
+- Contribute by sharing any online course or specialization you enjoyed!
+- Contribute by sharing relevant book(s) for a particular course.
+- Contribute by sharing Udacity Nano-Degree's code/content.
+- Contribute by sharing TEDtalks on Data Science in the relevant directory.
+
+
 
 
 # MSDS Roadmap
