@@ -39,3 +39,17 @@ Linear and Logistic Regression with PySpark
 Course: Spark and Python for Big Data with PySpark @Udemy
 Book: An Introduction to Statistical Learning by Gareth James Chapter no. 1, 2, and 3
 Important Keywords: SparkSession, printSchema, StringIndexer, VectorAssembler, randomSplit, ConfusionMatrix, MeanAbsoluteError, R-Squared, RootMeanSquredError, Precision, Recall, Accuracy, ROC Curve, Pipeline.
+
+
+
+## Day 03 | August 15, 2019 | Thursday
+
+
+**Today's Progress:** Machine Learning with PySpark!
+
+**Description:** Includes the following topics:
+Decision Trees and Random Forrest
+K-Means Clustering
+
+**Important Links:** [Udemy | Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+
