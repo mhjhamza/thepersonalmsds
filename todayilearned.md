@@ -53,3 +53,13 @@ K-Means Clustering
 
 **Important Links:** [Udemy | Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
 
+
+## Day 04 | August 16, 2019 | Friday
+
+
+**Today's Progress:** Basic Statistics on Coursera
+
+**Description:** Today's topics include basic concepts of descriptive statistics:
+
+**Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
+
