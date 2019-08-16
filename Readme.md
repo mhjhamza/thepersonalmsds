@@ -25,11 +25,11 @@
 | Personal Development | Click here! |
 | Statistics | [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/Statistics.md)
 | Mathematics | Click here!|
-| Big Data | Click here!|
+| Big Data | [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/BigData.md)
 | Mathematics | Click here!|
 | Machine Learning | Click here!|
 | Deep Learning | Click here!|
-| Data Science | Click here!|
+| Data Science | [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/DataScience.md)
 | AWS Machine Learning (Speciality) | Click here! |
 | AWS Big Data (Speciality) | Click here! |
 
