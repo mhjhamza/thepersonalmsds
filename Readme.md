@@ -22,7 +22,7 @@
 #### This contain links to all the relevant books, courses, videos and specializations
 | Course Title | Link |
 | -- | -- | 
-| Personal Development | Click here! |
+| Personal Development |  [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/PersonalDevelopment.md)
 | Statistics | [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/Statistics.md)
 | Mathematics | Click here!|
 | Big Data | [**Click here!**](https://github.com/mhjhamza/thepersonalmsds/blob/master/Course-wise-roadmaps/BigData.md)
