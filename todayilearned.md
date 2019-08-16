@@ -61,5 +61,12 @@ K-Means Clustering
 
 **Description:** Today's topics include basic concepts of descriptive statistics:
 
+- Cases, variables, and data matrix
+- Levels of measurement
+- How to present data as tables and graphs
+- Measures of Central Tendency (mean, median, mode).
+- Measures of Dispersion (range, interquartile range, variance, and standard deviation)
+- Z-scores
+
 **Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
 
