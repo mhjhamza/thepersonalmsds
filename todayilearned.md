@@ -70,3 +70,19 @@ K-Means Clustering
 
 **Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
 
+
+## Day 05 | August 17, 2019 | Saturday
+
+
+**Today's Progress:** Basic Statistics on Coursera
+
+**Description:** Includes the following topics:
+
+- Correlation,
+- Crosstabs,
+- Scatterplots,
+- Pearson's R, 
+- Regression,
+- Contingency tables.
+
+**Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
