@@ -86,3 +86,21 @@ K-Means Clustering
 - Contingency tables.
 
 **Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
+
+## Day 06 | August 18, 2019 | Sunday
+
+
+**Today's Progress:** Basic Statistics on Coursera
+
+**Description:** Includes the following topics:
+
+- Randomness,
+- Probability,
+- Relative Frequency,
+- Sample Space,
+- Basic Set-Theoretical concepts,
+- Conditional Probability,
+- Decision Trees,
+- Bayes' Law.
+
+**Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
