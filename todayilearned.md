@@ -104,3 +104,27 @@ K-Means Clustering
 - Bayes' Law.
 
 **Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
+
+
+## Day 07 | August 19, 2019 | Monday
+
+
+**Today's Progress:** Basic Statistics on Coursera
+
+**Description:** Includes the following topics:
+
+- Random Variable & Probability Distribution
+- Probability Mass Function
+- Probability Density Function
+- Cumulative Probability Distribution
+- Mean and Variance of a random variable
+- Normal Distribution & Binomial Distribution
+- Sampling Distributions
+- Random multi-stage cluster sampling
+- Stratified random sampling.
+
+**Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
+
+
+
+
