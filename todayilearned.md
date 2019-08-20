@@ -127,4 +127,17 @@ K-Means Clustering
 
 
 
+## Day 08 | August 20, 2019 | Tuesday
+
+
+**Today's Progress:** Basic Statistics on Coursera
+
+**Description:** Includes the following topics:
+
+- Confidence level
+- Statistical Hypotheses
+- Null and Alternative Hypothesis
+- P-value, Significance level and Rejection region
+
+**Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
 
