@@ -141,3 +141,16 @@ K-Means Clustering
 
 **Important Links:** [Coursera | Basic Statistics](https://www.coursera.org/learn/basic-statistics)
 
+
+
+## Day 09 | August 21, 2019 | Wednesday
+
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Distributed file system
+- Hadoop distributed file system
+- Scaling distributed file system
+- Block and replica states
+- HDFS Client
+- Namenode Architecture
