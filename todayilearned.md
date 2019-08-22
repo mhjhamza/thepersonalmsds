@@ -154,3 +154,14 @@ K-Means Clustering
 - Block and replica states
 - HDFS Client
 - Namenode Architecture
+
+
+## Day 10 | August 22, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Hadoop MapReduce Streaming applications with Python
+- Hadoop MapReduce application tuning
+- Combiner, Practitioner, Comparator and Speculative Execution
+
+
