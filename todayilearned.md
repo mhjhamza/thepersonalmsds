@@ -165,3 +165,13 @@ K-Means Clustering
 - Combiner, Practitioner, Comparator and Speculative Execution
 
 
+
+## Day 11 | August 23, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Resilient Distributed Datasets
+- Transformation, Actions, Resiliency
+- Working with text files
+- Joins, Accumulator & Broadcast variable
+- Spark UI & Cluster Mode
