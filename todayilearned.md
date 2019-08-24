@@ -175,3 +175,13 @@ K-Means Clustering
 - Working with text files
 - Joins, Accumulator & Broadcast variable
 - Spark UI & Cluster Mode
+
+## Day 12 | August 24, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Apache Spark
+- Map and Filter Transformation
+- FlatMap Transformation
+- Spark Architecture
+- Spark Components
