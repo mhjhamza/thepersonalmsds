@@ -185,3 +185,23 @@ K-Means Clustering
 - FlatMap Transformation
 - Spark Architecture
 - Spark Components
+
+
+## Day 13 | August 25, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Filter and MapValue Transformations on Pair RDD
+- Reduce By Key Aggregation
+- Group By and Sort By Key Transformation
+- Data Partitioning and Join Operations
+- Accumulators and Broadcast Variables
+- Spark SQL
+
+## Day 14 | August 26, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Hands-on SparkSQL with PySpark
+- Spark Streaming Project
+- Running Spark in a Cluster
