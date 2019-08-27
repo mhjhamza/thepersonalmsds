@@ -205,3 +205,11 @@ K-Means Clustering
 - Hands-on SparkSQL with PySpark
 - Spark Streaming Project
 - Running Spark in a Cluster
+
+
+## Day 15 | August 27, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Spark - Cluster Computing with Working Sets. (Paper)
+- Started reading "Spark - The Definitive Guide" (Book)
