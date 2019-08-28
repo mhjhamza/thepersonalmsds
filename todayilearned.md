@@ -213,3 +213,17 @@ K-Means Clustering
 
 - Spark - Cluster Computing with Working Sets. (Paper)
 - Started reading "Spark - The Definitive Guide" (Book)
+
+
+## Day 16 | August 28, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Transformations (Narrow & Wide)
+- Lazy Evaluation
+- Actions
+- DataFrames & Partitions
+- End-to-End example DataFrames and SQL
+
+Second Chapter | Spark - The Definitive Guide 
+
