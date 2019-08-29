@@ -227,3 +227,13 @@ K-Means Clustering
 
 Second Chapter | Spark - The Definitive Guide 
 
+## Day 17 | August 29, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following PySpark topics:
+
+- Structured API
+- Structured Spark Types
+- Basic Structured Operations
+- Columns and Expressions
+
+Book: Spark - The Definitive Guide
