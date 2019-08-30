@@ -237,3 +237,12 @@ Second Chapter | Spark - The Definitive Guide
 - Columns and Expressions
 
 Book: Spark - The Definitive Guide
+
+## Day 18 | August 30, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following PySpark topics:
+
+- Production Application with Spark
+- How Spark Runs on a Cluster
+- Execution Modes
+- Life Cycle of a Spark Application
