@@ -12,8 +12,8 @@
 ### Links that you should keep visiting
 | Important Links | Link |
 | -- | -- | 
-| Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
-| My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
+| Keep an eye on progress using this TIL file | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
+| M. Hamza's last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
 | Books | Click here! |
 | Tedtalks - Making Sense of too much data | [Click here!](https://www.ted.com/playlists/56/making_sense_of_too_much_data) |
 --------------------------------------
@@ -78,7 +78,7 @@ The tentative roadmap covers four mini-semesters in ~4-6 months:
 -   AWS Machine Learning (Speciality)
 -   AWS Big Data (Speciality)
 
-# About me
+# About the founder
 **Muhammad Hamza Javed** is an AWS Certified Solutions Architect - Associate, an AWS Certified Developer, a Packt Author, and a Data Science enthusiast primarily working on Machine Learning, Deep Learning, and Computer Vision. He possesses a Bachelor's Degree in Computer Science from GC University and forty-five (45) certificates in Data Science, Machine Learning, Deep Learning, and Big Data from AWS, Coursera and LinkedIn.
 
 Recent Accomplishments as of 2019:  
