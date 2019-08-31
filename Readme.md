@@ -22,6 +22,7 @@
 
 - [Muhammad Hamza Javed [Initiator]](https://www.linkedin.com/in/muhammadhamzajaved/)
 - [Saifullah Katpar](https://www.linkedin.com/in/saifullahkatpar)
+- [Tausif Kazi](https://www.linkedin.com/in/tausifkazi/)
 
 
 ### Course wise content and self-studying material
