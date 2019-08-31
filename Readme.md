@@ -20,9 +20,8 @@
 
 ## List of Participants!
 
-- Muhammad Hamza Javed [Initiator]
--
--
+- [Muhammad Hamza Javed [Initiator]](https://www.linkedin.com/in/muhammadhamzajaved/)
+- [Saifullah Katpar](https://www.linkedin.com/in/saifullahkatpar)
 
 
 ### Course wise content and self-studying material
