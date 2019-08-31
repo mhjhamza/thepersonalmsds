@@ -48,7 +48,7 @@
 | FAST Lahore | [**FAST Lahore MS(DS) Roadmap**](https://github.com/mhjhamza/thepersonalmsds/blob/master/UniversityMSDS-Roadmaps/FAST-MSDS-Roadmap.md)
 | RMIT Austrailia | [**RMIT Austrailia MS(DS) Syllabus**](https://github.com/SaifullahKatpar/thepersonalmsds/blob/SaifullahKatpar_Repo/UniversityMSDS-Roadmaps/RMIT_Austrailia_MSDS_Roadmap.md)
 
-|  **Please contribute more roadmaps** | **Thanks!**
+|  **Please contribute more roadmaps** | **Thanks!**|
 
 
 --------------------------------------
