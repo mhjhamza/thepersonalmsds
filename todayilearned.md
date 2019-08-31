@@ -246,3 +246,14 @@ Book: Spark - The Definitive Guide
 - How Spark Runs on a Cluster
 - Execution Modes
 - Life Cycle of a Spark Application
+
+
+## Day 19 | August 31, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Writing and testing Spark Applications
+- Launching Spark Applications
+- Cluster Managers; Standalone, YARN, & Mesos Overview
+
+Chapter # 15, 16, 17 of Spark - The Definitive Guide 
