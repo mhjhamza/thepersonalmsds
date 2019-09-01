@@ -116,3 +116,10 @@ The list of courses are:
 - Combined Skills:
     - Become a Data Scientist (Career Track on Lynda)
 
+
+There are some courses which I need to complete or freeze for later. The things in progress are:
+
+- Intermediate Machine Learning on Kaggle
+- Linux Files and Permissions (Lynda)
+- Docker for Data Scientists (Lynda)
+- 
