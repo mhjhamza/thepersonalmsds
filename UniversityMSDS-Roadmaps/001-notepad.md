@@ -65,6 +65,8 @@ The list of courses are:
     - Statistical Thinking in Python (Part 1 and 2) (datacamp)
     - Statistical Simulation in Python (datacamp)
     - Foundations of probability in python (datacamp)
+    - Statistics 101 (cognitiveai)
+    - 
 
 - Basics of Machine Learning
     - Machine Learning by Andrew Ng (coursera)
@@ -93,13 +95,22 @@ The list of courses are:
     - Visualizing Time Series Data in Python (datacamp)
     - Become a Data Visualization Specialist: Concepts (Career Track on Lynda)
 
-- Deep Learning
+- Basics of Deep Learning
+    - Deep Learning Fundamentals (cognitiveai)
     - Deep Learning in Python (datacamp)
     - Deep Learning with PyTorch (datacamp)
+    - Deep Learning with TensorFlow (cognitiveai)
     - Deep Learning with Keras in Python (datacamp)
+
+- Advanced Deep Learning
+    - Advance Your Skills in Deep Learning and Neural Networks (Career Track on Lynda)
     - Advanced Deep Learning with Keras in Python (datacamp)
     - Hyperparameter Tuning in Python (datacamp)
-    - Advance Your Skills in Deep Learning and Neural Networks (Career Track on Lynda)
+    - Building Deep Learning Applications with Keras 2.0 (lynda)
+    - Deep Learning: Face Recognition
+    - Deep Learning: Image Recognition
+    - Building and Deploying Applications with TensorFlow (lynda)
+    - Neural Networks and Convolutional Neural Networks Essential Training (lynda)
 
 - Combined Skills:
     - Become a Data Scientist (Career Track on Lynda)
