@@ -13,3 +13,23 @@
 **Description:** *None*
 
 **Important Links:** *None*
+
+## Day 01 | September 01, 2019 | Sunday
+
+**Today's Progress:** 
+
+- Created a list of online courses and other resources
+- Resumed Week 2 of Machine Learning by Andrew Ng
+- Week 2: Linear Regression with Multiple Features. 
+- Description: This includes the following:
+    - Gradient Descent for Multiple Features
+    - Feature Scaling for Gradient Descent
+    - Learning Rate for Gradient Descent
+    - Polynomial Regression
+    - Normal Equation and Noninvertibility
+
+
+
+**Description:** I had started this course earlier. Now I have resumd it. 
+
+**Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/2)
