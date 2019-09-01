@@ -257,3 +257,15 @@ Book: Spark - The Definitive Guide
 - Cluster Managers; Standalone, YARN, & Mesos Overview
 
 Chapter # 15, 16, 17 of Spark - The Definitive Guide 
+
+## Day 20 | September 01, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Hadoop Ecosystem Playlist (link-1 below)
+- Intro to Spark Streaming (link-2 below)
+- Started Part-5 - "Structured Streaming" of the book (Ref below)
+
+Link-1: https://lnkd.in/ffW97F2
+Link-2: https://lnkd.in/fS93_38
+Book: Spark - The Definitive Guide
