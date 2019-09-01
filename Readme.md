@@ -14,16 +14,18 @@
 | -- | -- | 
 | Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
 | My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
-| Books | Click here! |
 | Tedtalks - Making Sense of too much data | [Click here!](https://www.ted.com/playlists/56/making_sense_of_too_much_data) |
 --------------------------------------
 
-## List of Participants!
+## List of Participants
 
 - [Muhammad Hamza Javed [Initiator]](https://www.linkedin.com/in/muhammadhamzajaved/)
 - [Saifullah Katpar](https://www.linkedin.com/in/saifullahkatpar)
 - [Tausif Kazi](https://www.linkedin.com/in/tausifkazi/)
 
+## Want to take the challenge?
+
+[Getting Started with thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/How-to-Start/Getting-Started.md)
 
 ### Course wise content and self-studying material
 #### This contain links to all the relevant books, courses, videos and specializations
