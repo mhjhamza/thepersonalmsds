@@ -14,8 +14,9 @@ If you or anyone in your network wants to start learning Data Science but are lo
 
 For all those who take the challenge - their name / LinkedIn profile will be mentioned in our Github main page as a token of appreciation. Start learning! 
 
-Join me on thepersonalMSDS journey. :)
---------------------------------------------
-Want to learn more? Visit Our Github Repo
---------------------------------------------
-[Github](https://lnkd.in/f9n3YRP) | [LinkedIn](https://goo.gl/iHk4eK) | [FB Page](https://lnkd.in/fXfJczp)
+# Join me on thepersonalMSDS journey. :)
+
+
+## Want to learn more? Visit Our Github Repo
+
+**[Github](https://lnkd.in/f9n3YRP) | [LinkedIn](https://goo.gl/iHk4eK) | [FB Page](https://lnkd.in/fXfJczp)**
