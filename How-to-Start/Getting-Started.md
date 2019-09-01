@@ -2,9 +2,9 @@
 
 If you or anyone in your network wants to start learning Data Science but are looking for motivation to do so, please comment or mention them below. The Personal MSDS is a self-learning initiative for those who are eager to learn new data science skills but are looking for a cue to get started. This challenge provides you with an opportunity to end procrastination and start a journey of continuous improvement every day.
 
-**Here's how you can be a part of #thepersonalMSDS:**
+![thepersonalMSDS](https://github.com/mhjhamza/thepersonalmsds/blob/master/How-to-Start/Getting-started.jpg "So, thepersonalMSDS Begins!")
 
-![]()
+**Here's how you can be a part of #thepersonalMSDS:**
 
 1) Share the image above and pledge publicly for the challenge.
 2) Pledge to dedicate at least an hour for learning new DS skills, daily.
