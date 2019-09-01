@@ -103,12 +103,13 @@ The list of courses are:
     - Deep Learning with Keras in Python (datacamp)
 
 - Advanced Deep Learning
+    - Deep Learning Specialization (coursera)
     - Advance Your Skills in Deep Learning and Neural Networks (Career Track on Lynda)
     - Advanced Deep Learning with Keras in Python (datacamp)
     - Hyperparameter Tuning in Python (datacamp)
     - Building Deep Learning Applications with Keras 2.0 (lynda)
-    - Deep Learning: Face Recognition
-    - Deep Learning: Image Recognition
+    - Deep Learning: Face Recognition (lynda)
+    - Deep Learning: Image Recognition (lynda)
     - Building and Deploying Applications with TensorFlow (lynda)
     - Neural Networks and Convolutional Neural Networks Essential Training (lynda)
 
