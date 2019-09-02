@@ -269,3 +269,12 @@ Chapter # 15, 16, 17 of Spark - The Definitive Guide
 Link-1: https://lnkd.in/ffW97F2
 Link-2: https://lnkd.in/fS93_38
 Book: Spark - The Definitive Guide
+
+## Day 21 | September 02, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Structured Streaming Basics
+- Core Concepts: Input Sources, Sinks, Output Modes and Triggers
+- Event-Time Processing
+- Transformations on Streams
