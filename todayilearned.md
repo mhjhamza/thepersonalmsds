@@ -53,3 +53,24 @@
 **Description:** Completed Week 2 on second day with programming assignments.
 
 **Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/2)
+
+
+
+## Day 02 | September 02, 2019 | Monday
+
+**Today's Progress:** 
+
+- Classification Problem Representation
+- Logistic Regression
+- Sigmoid/Logistic Function
+- Hypothesis for Logistic Regression
+- Linear Decision Boundary for hypothesis
+- Non-Linear Decision Boundary for hypothesi
+
+**Description:** Completed Classification and Represenation section of Week 3.
+
+**Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/3)
+
+
+
+
