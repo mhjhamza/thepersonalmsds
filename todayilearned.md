@@ -278,3 +278,13 @@ Book: Spark - The Definitive Guide
 - Core Concepts: Input Sources, Sinks, Output Modes and Triggers
 - Event-Time Processing
 - Transformations on Streams
+
+
+## Day 22 | September 03, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Event-Time and Stateful Processing
+- Tumbling Windows & Handling Late Data with Watermarks
+- Dropping Duplicates in a Stream
+- Arbitrary Stateful Processing
