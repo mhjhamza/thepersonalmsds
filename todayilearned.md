@@ -26,10 +26,30 @@
     - Feature Scaling for Gradient Descent
     - Learning Rate for Gradient Descent
     - Polynomial Regression
-    - Normal Equation and Noninvertibility
+    - Normal Equation and /Noninvertibility
 
 
 
 **Description:** I had started this course earlier. Now I have resumd it. 
+
+**Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/2)
+
+
+## Day 02 | September 02, 2019 | Monday
+
+**Today's Progress:** 
+
+ - Revised Week 2 of Machine Learning
+ - Done with quiz
+ - Completed Programming assignments in Octave
+ - Concepts:
+    - Batch Gradient Descent
+    - Normalization and Scaling
+    - Adjusting learning rate
+    - Cost Computation
+    - Normal Equation method
+
+
+**Description:** Completed Week 2 on second day with programming assignments.
 
 **Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/2)
