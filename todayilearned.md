@@ -56,7 +56,7 @@
 
 
 
-## Day 02 | September 02, 2019 | Monday
+## Day 03 | September 03, 2019 | Tueseday
 
 **Today's Progress:** 
 
@@ -71,6 +71,17 @@
 
 **Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/3)
 
+
+## Day 04 | September 04, 2019 | Wednesday
+
+**Today's Progress:** 
+
+- Cost Function (convex for logistic regression)
+- Simplified Gradient Descent and Cost Function for Logistic Regression
+
+**Description:** Logistic Regression Model
+
+**Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/3)
 
 
 
