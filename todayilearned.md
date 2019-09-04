@@ -288,3 +288,12 @@ Book: Spark - The Definitive Guide
 - Tumbling Windows & Handling Late Data with Watermarks
 - Dropping Duplicates in a Stream
 - Arbitrary Stateful Processing
+
+
+## Day 23 | September 04, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following AWS Internet of Things (IoT) topics:
+
+ - IoT Core, IoT Thing Registry
+ - Message Broker, Rules Engine, Job Service
+ - Configured first IoT Device
