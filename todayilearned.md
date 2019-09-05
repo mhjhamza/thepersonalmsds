@@ -297,3 +297,11 @@ Book: Spark - The Definitive Guide
  - IoT Core, IoT Thing Registry
  - Message Broker, Rules Engine, Job Service
  - Configured first IoT Device
+
+## Day 24 | September 05, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+ - Kinesis Overview
+ - Kinesis Datastreams & Firehose
+ - Pipeline for ingestion & analyzing streaming data
