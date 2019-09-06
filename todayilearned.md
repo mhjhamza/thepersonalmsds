@@ -305,3 +305,11 @@ Book: Spark - The Definitive Guide
  - Kinesis Overview
  - Kinesis Datastreams & Firehose
  - Pipeline for ingestion & analyzing streaming data
+ 
+ ## Day 25 | September 06, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+ - AWS Glue Core Concepts & ETL Jobs
+ - Data Catalog, Tables,  and Crawler
+ - Job, Transform and Trigger
