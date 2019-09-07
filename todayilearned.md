@@ -313,3 +313,13 @@ Book: Spark - The Definitive Guide
  - AWS Glue Core Concepts & ETL Jobs
  - Data Catalog, Tables,  and Crawler
  - Job, Transform and Trigger
+
+
+ ## Day 26 | September 07, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+ - Git Concepts - (Intermediate-advanced)
+ - AWS CodeCommit 
+ - AWS Cloud9 
+ - Integrate AWS Cloud9 with AWS CodeCommit
