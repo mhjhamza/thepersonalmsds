@@ -323,3 +323,12 @@ Book: Spark - The Definitive Guide
  - AWS CodeCommit 
  - AWS Cloud9 
  - Integrate AWS Cloud9 with AWS CodeCommit
+ 
+  ## Day 27 | September 08, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+ - Managing & Deploying Code with AWS Developer Tools
+ - Configuring Git, AWS CLI, and CodeCommit
+ - Using CodeCommit with other AWS Services
+ - AWS CodePipeline (Setup, Configuration, and Advanced features)
