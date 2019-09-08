@@ -85,3 +85,56 @@
 
 
 
+## Day 05 | September 05, 2019 | Thursday
+
+**Today's Progress:** 
+
+- Advanced Optimization Algorithms
+         - Gradient Descent (done)
+         - Conjugate Gradient (to learn)
+    - BFGS
+    - L-BFGS
+- Multi-class Classification
+         - one-vs-all
+
+**Description:** Introduction to optimization algorithms
+
+**Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/3)
+
+
+
+
+## Day 06 | September 06, 2019 | Friday
+
+**Today's Progress:** 
+
+- The problem of overfitting and uderfitting
+- Addressing overfitting
+               - Reduce number of features (model selection algorithms)
+              - Regularization
+
+
+**Description:** Overfitting and underfitting
+
+**Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/3)
+
+
+
+## Day 07 | September 07 2019 | Thursday
+
+**Today's Progress:** 
+
+- The problem of overfitting and uderfitting
+- Addressing overfitting
+- Regularization
+        - Regularized Cost Function
+        - Gradient Descent with regularization 
+        - Normal Equation method with regularization
+
+
+**Description:** regularization
+
+**Important Links:** [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/week/3)
+
+
+
