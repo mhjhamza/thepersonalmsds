@@ -127,9 +127,13 @@
 - The problem of overfitting and uderfitting
 - Addressing overfitting
 - Regularization
-        - Regularized Cost Function
-        - Gradient Descent with regularization 
-        - Normal Equation method with regularization
+         - Regularized Cost Function for Linear Regression and Logistic Regression
+
+- Linear Regression
+         - Gradient Descent with regularization
+         - Normal Equation method with regularization
+
+
 
 
 **Description:** regularization
