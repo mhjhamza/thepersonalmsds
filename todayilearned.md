@@ -332,3 +332,12 @@ Book: Spark - The Definitive Guide
  - Configuring Git, AWS CLI, and CodeCommit
  - Using CodeCommit with other AWS Services
  - AWS CodePipeline (Setup, Configuration, and Advanced features)
+ 
+ 
+## Day 28 | September 09, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+- AWS CodeBuild & CodeDeploy
+- Test-Driven Development with AWS Services
+- Behavior-Driven Development with AWS Services
