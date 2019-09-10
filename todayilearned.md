@@ -341,3 +341,15 @@ Book: Spark - The Definitive Guide
 - AWS CodeBuild & CodeDeploy
 - Test-Driven Development with AWS Services
 - Behavior-Driven Development with AWS Services
+
+
+## Day 29 | September 10, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following AWS Big Data topics:
+
+ - AWS Elastic MapReduce
+ - EMRFS (EMR FileSystem)
+ - Transient vs Long-Running Clusters
+ - Securing an EMR Cluster
+ - Working with PySpark & S3
+ - Querying EMR using HIVE
