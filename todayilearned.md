@@ -353,3 +353,11 @@ Book: Spark - The Definitive Guide
  - Securing an EMR Cluster
  - Working with PySpark & S3
  - Querying EMR using HIVE
+
+## Day 30 | September 11, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following AWS ML topics:
+
+ - AWS Data Pipeline
+ - Amazon Machine Learning (AML)
+ - Amazon SageMaker 
