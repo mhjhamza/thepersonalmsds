@@ -361,3 +361,11 @@ Book: Spark - The Definitive Guide
  - AWS Data Pipeline
  - Amazon Machine Learning (AML)
  - Amazon SageMaker 
+ 
+ ## Day 31 | September 12, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following AWS Big Data topics:
+ 
+ - Elasticsearch Overview
+ - Elasticsearch Clusters and Access Policies
+ - Elasticsearch, Kibana, and AWS Lambda
