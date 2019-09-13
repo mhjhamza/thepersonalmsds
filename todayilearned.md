@@ -369,3 +369,11 @@ Book: Spark - The Definitive Guide
  - Elasticsearch Overview
  - Elasticsearch Clusters and Access Policies
  - Elasticsearch, Kibana, and AWS Lambda
+ 
+  ## Day 32 | September 13, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following AWS Data Lake topics:
+ 
+ - Architecting Data Lakes on AWS
+ - Amazon Athena Overview
+ - Kinesis Analytics & Quicksight
