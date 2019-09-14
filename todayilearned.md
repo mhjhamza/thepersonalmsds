@@ -377,3 +377,13 @@ Book: Spark - The Definitive Guide
  - Architecting Data Lakes on AWS
  - Amazon Athena Overview
  - Kinesis Analytics & Quicksight
+ 
+ 
+  ## Day 33 | September 14, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following AWS Big Data Lake topics:
+ 
+ - Written BDD Features/Steps for Data Lake
+ - Written TDD Test Cases for Data Lake
+ - Implemented a mini Data Lake pipeline including (Authentication, Data Ingestion, Processing, and Logging)
+
