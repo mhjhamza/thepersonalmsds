@@ -386,4 +386,12 @@ Book: Spark - The Definitive Guide
  - Written BDD Features/Steps for Data Lake
  - Written TDD Test Cases for Data Lake
  - Implemented a mini Data Lake pipeline including (Authentication, Data Ingestion, Processing, and Logging)
+ 
+ 
+   ## Day 34 | September 15, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following AWS Big Data Lake topics:
+
+- Reading "Building Big Data Storage Solutions (Data Lakes) for Maximum Flexibility" 
+- Link: https://d1.awsstatic.com/whitepapers/Storage/data-lake-on-aws.pdf
 
