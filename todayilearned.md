@@ -395,3 +395,13 @@ Book: Spark - The Definitive Guide
 - Reading "Building Big Data Storage Solutions (Data Lakes) for Maximum Flexibility" 
 - Link: https://d1.awsstatic.com/whitepapers/Storage/data-lake-on-aws.pdf
 
+
+## Day 35 | September 16, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+- MakeFile Overview
+- Bash Shell Scripting
+- CloudFormation Core Concepts
+- Templates In-Depth
+- Template Advanced Concepts
