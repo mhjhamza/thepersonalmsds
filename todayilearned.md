@@ -405,3 +405,11 @@ Book: Spark - The Definitive Guide
 - CloudFormation Core Concepts
 - Templates In-Depth
 - Template Advanced Concepts
+
+
+## Day 36 | September 17, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+- Continued Implementing CloudFormation Stacks
+- Reading AWS CloudFormation Documentation
