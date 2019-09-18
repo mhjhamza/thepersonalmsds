@@ -413,3 +413,10 @@ Book: Spark - The Definitive Guide
 
 - Continued Implementing CloudFormation Stacks
 - Reading AWS CloudFormation Documentation
+
+
+## Day 37 | September 18, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+- Deep Dive AWS QuickSight, Data Lake, Glue, & Athena.
