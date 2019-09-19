@@ -420,3 +420,11 @@ Book: Spark - The Definitive Guide
 **Today's Progress:** Today's Roadmap includes the following AWS topics:
 
 - Deep Dive AWS QuickSight, Data Lake, Glue, & Athena.
+
+
+
+## Day 38 | September 19, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+- Reading Big Data Analytics Options on AWS (Whitepaper)
