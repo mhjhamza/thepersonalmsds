@@ -428,3 +428,11 @@ Book: Spark - The Definitive Guide
 **Today's Progress:** Today's Roadmap includes the following AWS topics:
 
 - Reading Big Data Analytics Options on AWS (Whitepaper)
+
+
+## Day 39 | September 20, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+- Continued reading Big Data Analytics Options on AWS (Whitepaper)
+- Experimented with AWS CodeBuild, CodeDeploy and CodePipeline
