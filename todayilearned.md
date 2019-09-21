@@ -436,3 +436,9 @@ Book: Spark - The Definitive Guide
 
 - Continued reading Big Data Analytics Options on AWS (Whitepaper)
 - Experimented with AWS CodeBuild, CodeDeploy and CodePipeline
+
+## Day 40 | September 21, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following Hadoop Ecosystem topics:
+
+- Hadoop Ecosystem Components (Hive, Pig, HBase, HCatalog)
