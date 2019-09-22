@@ -442,3 +442,10 @@ Book: Spark - The Definitive Guide
 **Today's Progress:** Today's Roadmap includes the following Hadoop Ecosystem topics:
 
 - Hadoop Ecosystem Components (Hive, Pig, HBase, HCatalog)
+
+## Day 41 | September 22, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Hadoop Ecosystem topics:
+
+- Hadoop Ecosystem Components (Drill, Mahout, Sqoop, and Zookeeper)
+
