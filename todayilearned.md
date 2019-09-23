@@ -449,3 +449,11 @@ Book: Spark - The Definitive Guide
 
 - Hadoop Ecosystem Components (Drill, Mahout, Sqoop, and Zookeeper)
 
+## Day 42 | September 23, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Data Collection (AWS Kinesis)
+- Streams, analytics and firehose.
+- Producer and Consumer SDKs.
+- Shards, shard splitting and merge shards.
