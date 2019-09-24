@@ -457,3 +457,12 @@ Book: Spark - The Definitive Guide
 - Streams, analytics and firehose.
 - Producer and Consumer SDKs.
 - Shards, shard splitting and merge shards.
+
+## Day 43 | September 24, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Data Collection (AWS Kinesis)
+- Created Kinesis Firehose for streaming data to S3
+- Created Kinesis Stream for reading from EC2
+- Built a Pipeline to Ingest and Analyze Streaming Data
