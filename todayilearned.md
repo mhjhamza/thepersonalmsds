@@ -466,3 +466,14 @@ Book: Spark - The Definitive Guide
 - Created Kinesis Firehose for streaming data to S3
 - Created Kinesis Stream for reading from EC2
 - Built a Pipeline to Ingest and Analyze Streaming Data
+
+
+## Day 44 | September 25, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Data Storage & Processing (Amazon S3 + EMR)
+- S3 Storage Tiers, Lifecycle Rules, Versioning, CRR, Events, and ETags
+- Spun-up an EMR Cluster, 
+- Loaded UCI Dataset from S3, 
+- Ran Spark on Zepplin notebook to process the dataset.
