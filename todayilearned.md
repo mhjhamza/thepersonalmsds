@@ -477,3 +477,11 @@ Book: Spark - The Definitive Guide
 - Spun-up an EMR Cluster, 
 - Loaded UCI Dataset from S3, 
 - Ran Spark on Zepplin notebook to process the dataset.
+
+## Day 45 | September 26, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Data Storage (Amazon DynamoDB)
+- DynamoDB RCU & WCU, Partitions, 
+- Indexes LSI & GSI, DAX, and Dynamo Streams.
