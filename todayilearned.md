@@ -485,3 +485,13 @@ Book: Spark - The Definitive Guide
 - Data Storage (Amazon DynamoDB)
 - DynamoDB RCU & WCU, Partitions, 
 - Indexes LSI & GSI, DAX, and Dynamo Streams.
+
+
+## Day 46 | September 27, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Data Processing (AWS Lambda)
+- AWS Lambda as Cron Jobs
+- Lambda Integration with other services
+- Lambda Costs, Promises, and Anti-Patterns
