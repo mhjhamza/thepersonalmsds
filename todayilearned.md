@@ -495,3 +495,11 @@ Book: Spark - The Definitive Guide
 - AWS Lambda as Cron Jobs
 - Lambda Integration with other services
 - Lambda Costs, Promises, and Anti-Patterns
+
+## Day 47 | September 28, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following ML (AWS) topics:
+
+- Amazon SageMaker
+- Ran JupyterLab and trained a model
+- Deployed the model to an endpoint
