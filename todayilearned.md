@@ -503,3 +503,12 @@ Book: Spark - The Definitive Guide
 - Amazon SageMaker
 - Ran JupyterLab and trained a model
 - Deployed the model to an endpoint
+
+## Day 48 | September 29, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- AWS Redshift Architecture
+- Redshift Spectrum
+- Redshift Distribution Styles
+- Redshift Integration / WLM / Vacuum / Anti-Patterns
