@@ -512,3 +512,9 @@ Book: Spark - The Definitive Guide
 - Redshift Spectrum
 - Redshift Distribution Styles
 - Redshift Integration / WLM / Vacuum / Anti-Patterns
+
+## Day 49 | September 30, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Reading Whitepaper: Streaming Data Solutions on AWS with Amazon Kinesis
