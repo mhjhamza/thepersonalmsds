@@ -518,3 +518,10 @@ Book: Spark - The Definitive Guide
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - Reading Whitepaper: Streaming Data Solutions on AWS with Amazon Kinesis
+
+## Day 50 | October 01, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Amazon Database Migration Service (DMS)
+- Migrating database to S3 data lake via EMR - Sqoop
