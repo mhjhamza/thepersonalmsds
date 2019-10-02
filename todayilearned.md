@@ -525,3 +525,10 @@ Book: Spark - The Definitive Guide
 
 - Amazon Database Migration Service (DMS)
 - Migrating database to S3 data lake via EMR - Sqoop
+
+## Day 51 | October 02, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Python Design Patterns
+- Reading whitepaper: Data Warehousing on AWS
