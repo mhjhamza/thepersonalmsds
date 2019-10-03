@@ -532,3 +532,11 @@ Book: Spark - The Definitive Guide
 
 - Python Design Patterns
 - Reading whitepaper: Data Warehousing on AWS
+
+## Day 52 | October 03, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Intro to Amazon Quicksight
+- Quicksight Pricing and Dashboards
+- Choosing Visualization Types
