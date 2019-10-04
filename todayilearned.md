@@ -540,3 +540,9 @@ Book: Spark - The Definitive Guide
 - Intro to Amazon Quicksight
 - Quicksight Pricing and Dashboards
 - Choosing Visualization Types
+
+## Day 53 | October 04, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Reading AWS Database Migration Service Best Practices Whitepaper
