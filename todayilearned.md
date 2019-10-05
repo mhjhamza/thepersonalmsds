@@ -546,3 +546,11 @@ Book: Spark - The Definitive Guide
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - Reading AWS Database Migration Service Best Practices Whitepaper
+
+## Day 54 | October 04, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Reading Well-Architeched Framework Whitepaper 
+
+
