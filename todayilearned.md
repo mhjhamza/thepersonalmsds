@@ -553,4 +553,11 @@ Book: Spark - The Definitive Guide
 
 - Reading Well-Architeched Framework Whitepaper 
 
+## Day 55 | October 06, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Continued Reading Well-Architeched Framework Whitepaper 
+
+
 
