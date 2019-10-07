@@ -560,4 +560,10 @@ Book: Spark - The Definitive Guide
 - Continued Reading Well-Architeched Framework Whitepaper 
 
 
+## Day 56 | October 07, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following ML (AWS) topics:
+
+- Amazon Rekognition Developer Guide
+- Experimenting with Amazon Rekognition API
 
