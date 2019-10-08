@@ -567,3 +567,9 @@ Book: Spark - The Definitive Guide
 - Amazon Rekognition Developer Guide
 - Experimenting with Amazon Rekognition API
 
+## Day 57 | October 08, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following ML (AWS) topics:
+
+- Amazon Polly, and Transcribe.
+- Experimenting with Polly and Transcribe with Boto3.
