@@ -573,3 +573,11 @@ Book: Spark - The Definitive Guide
 
 - Amazon Polly, and Transcribe.
 - Experimenting with Polly and Transcribe with Boto3.
+
+## Day 58 | October 09, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following ML (AWS) topics:
+
+- Amazon Comprehend and Lex.
+- Experimenting with Polly and Transcribe with Boto3.
+- Amazon Service Chaining with AWS Step Functions.
