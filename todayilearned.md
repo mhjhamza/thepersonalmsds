@@ -581,3 +581,13 @@ Book: Spark - The Definitive Guide
 - Amazon Comprehend and Lex.
 - Experimenting with Polly and Transcribe with Boto3.
 - Amazon Service Chaining with AWS Step Functions.
+
+## Day 59 | October 10, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Redshift Distribution Style selection
+- Redshift Sort Key Selection
+- Loading Data & Designing Queries
+
+
