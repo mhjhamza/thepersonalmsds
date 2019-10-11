@@ -590,4 +590,8 @@ Book: Spark - The Definitive Guide
 - Redshift Sort Key Selection
 - Loading Data & Designing Queries
 
+## Day 60 | October 11, 2019 | Friday
 
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Apache Hadoop, EMR Architecture & Operations (aCloudGuru)
