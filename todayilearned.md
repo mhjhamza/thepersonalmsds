@@ -595,3 +595,12 @@ Book: Spark - The Definitive Guide
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - Apache Hadoop, EMR Architecture & Operations (aCloudGuru)
+
+
+## Day 61 | October 12, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- AWS re:Invent 2018: Big Data Analytics Architectural Patterns & Best Practices
+- AWS re:Invent 2018: Effective Data Lakes: Challenges and Design Patterns
+- AWS re:Invent 2018: Build and Govern Your Data Lakes with AWS Glue
