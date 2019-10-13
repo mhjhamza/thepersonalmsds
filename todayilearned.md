@@ -604,3 +604,15 @@ Book: Spark - The Definitive Guide
 - AWS re:Invent 2018: Big Data Analytics Architectural Patterns & Best Practices
 - AWS re:Invent 2018: Effective Data Lakes: Challenges and Design Patterns
 - AWS re:Invent 2018: Build and Govern Your Data Lakes with AWS Glue
+
+
+## Day 62 | October 13, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+[AWS re: Invent 2018]
+- A Deep Dive into What's New with Amazon EMR
+- Deep Dive and Best Practices for Amazon Redshift
+- Intro to AWS Lake Formation - Build a secure data lake
+- Data Lake Implementation: Processing & Querying Data in Place
+- High-Performance Data Streaming with Amazon Kinesis: Best Practices
