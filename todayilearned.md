@@ -616,3 +616,12 @@ Book: Spark - The Definitive Guide
 - Intro to AWS Lake Formation - Build a secure data lake
 - Data Lake Implementation: Processing & Querying Data in Place
 - High-Performance Data Streaming with Amazon Kinesis: Best Practices
+
+
+## Day 63 | October 14, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Data Privacy & Governance in the Age of Big Data (GPSTEC303)
+- Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)
+- Search at Nike with Amazon Elasticsearch Service (ANT203)
