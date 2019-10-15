@@ -625,3 +625,10 @@ Book: Spark - The Definitive Guide
 - Data Privacy & Governance in the Age of Big Data (GPSTEC303)
 - Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)
 - Search at Nike with Amazon Elasticsearch Service (ANT203)
+
+## Day 64 | October 15, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Learning Applications Using TensorFlow, Advanced Microgrid Solutions (AIM401-R2)'
+- Deep Learning Applications Using TensorFlow (AIM401-R)
