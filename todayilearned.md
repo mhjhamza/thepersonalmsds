@@ -632,3 +632,10 @@ Book: Spark - The Definitive Guide
 
 - Learning Applications Using TensorFlow, Advanced Microgrid Solutions (AIM401-R2)'
 - Deep Learning Applications Using TensorFlow (AIM401-R)
+
+
+## Day 65 | October 16, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following ML (AWS) topics:
+
+- Build & Deploy ML Models Quickly & Easily with Amazon SageMaker (AIM404-R)
