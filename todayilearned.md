@@ -639,3 +639,11 @@ Book: Spark - The Definitive Guide
 **Today's Progress:** Today's Roadmap includes the following ML (AWS) topics:
 
 - Build & Deploy ML Models Quickly & Easily with Amazon SageMaker (AIM404-R)
+
+
+## Day 66 | October 17, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following ML (AWS) topics:
+
+- Enterprise Data Lake: Architecture Using Big Data Technologies
+
