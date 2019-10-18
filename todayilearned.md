@@ -647,3 +647,8 @@ Book: Spark - The Definitive Guide
 
 - Enterprise Data Lake: Architecture Using Big Data Technologies
 
+## Day 67 | October 18, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+ 
+AWS re: Invent 2018: Building Serverless Analytics Pipelines with AWS Glue (ANT308)
