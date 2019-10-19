@@ -652,3 +652,10 @@ Book: Spark - The Definitive Guide
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
  
 AWS re: Invent 2018: Building Serverless Analytics Pipelines with AWS Glue (ANT308)
+
+## Day 68 | October 19, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+AWS re:Invent 2018: Leadership Session: AWS Security (SEC305-L)
+
