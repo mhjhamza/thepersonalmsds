@@ -659,3 +659,8 @@ AWS re: Invent 2018: Building Serverless Analytics Pipelines with AWS Glue (ANT3
 
 AWS re:Invent 2018: Leadership Session: AWS Security (SEC305-L)
 
+## Day 69 | October 20, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1)
