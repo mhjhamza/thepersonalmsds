@@ -664,3 +664,10 @@ AWS re:Invent 2018: Leadership Session: AWS Security (SEC305-L)
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1)
+
+## Day 70 | October 21, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Elasticsearch Clusters, Access Policies within VPC.
+- Elasticsearch, Kibana, DynamoDB and AWS Lambda.
