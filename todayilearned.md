@@ -707,3 +707,9 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - Taking (6/10) Quizzes for AWS Big Data Speciality.
+
+## Day 77 | October 28, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Taking (7/10) Quizzes for AWS Big Data Speciality.
