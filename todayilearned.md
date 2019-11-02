@@ -737,3 +737,9 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - Improving Train Safety with AWS IoT
+
+## Day 82 | November 02, 2019 | Saturday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Exam Readiness: AWS Certified Big Data - Specialty (Digital)
