@@ -743,3 +743,9 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - Exam Readiness: AWS Certified Big Data - Specialty (Digital)
+
+## Day 83 | November 03, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- AWS Kinesis Streams & Firehose Documentation & FAQs
