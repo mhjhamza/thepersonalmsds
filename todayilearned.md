@@ -755,3 +755,10 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - Amazon Elasticsearch Service Documentation & FAQs
+
+## Day 85 | November 05, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- AWS Redshift Documentation & FAQs
+
