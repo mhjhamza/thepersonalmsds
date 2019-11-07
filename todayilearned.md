@@ -767,3 +767,9 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - AWS Elastic MapReduce (EMR) Documentation & FAQs
+
+## Day 87 | November 07, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- DynamoDB Documentation & FAQs
