@@ -773,3 +773,9 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
 
 - DynamoDB Documentation & FAQs
+
+## Day 88 | November 08, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data (AWS) topics:
+
+- Amazon Athena Documentation & FAQs
