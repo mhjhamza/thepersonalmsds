@@ -786,3 +786,8 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 
 - Amazon Quicksight Documentation & FAQs
 
+## Day 90 | November 10, 2019 | Sunday
+
+**Today's Progress:** Today's Roadmap includes the following Python topics:
+
+- Solving Python challenges on HackerRank (Continued)
