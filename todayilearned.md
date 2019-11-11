@@ -790,4 +790,11 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 
 **Today's Progress:** Today's Roadmap includes the following Python topics:
 
-- Solving Python challenges on HackerRank (Continued)
+- Solving Python challenges on HackerRank
+
+
+## Day 91 | November 11, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Hands-On Lab: Migrating Redshift Data to and from S3
