@@ -805,3 +805,9 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following Big Data topics:
 
  Hands-On Lab: Analyzing and Visualizing data with AWS Elasticsearch Service and Kibana
+
+## Day 93 | November 13, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Hands-On Lab: AWS Glue Crawler, Glue ETL with Amazon Athena
