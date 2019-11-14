@@ -811,3 +811,11 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following Big Data topics:
 
 - Hands-On Lab: AWS Glue Crawler, Glue ETL with Amazon Athena
+
+
+## Day 94 | November 14, 2019 | Thursday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Hands-On Lab: DynamoDB bulk insertion with AWS Lambda and S3
+
