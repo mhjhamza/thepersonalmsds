@@ -819,3 +819,12 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 
 - Hands-On Lab: DynamoDB bulk insertion with AWS Lambda and S3
 
+
+## Day 95 | November 15, 2019 | Friday
+
+**Today's Progress:** Today's Roadmap includes the following Big Data topics:
+
+- Hands-On Lab: CloudWatch Rules (Cron Job) with AWS Lambda and DynamoDB (Continued)
+
+
+
