@@ -832,4 +832,8 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 
 - Hands-On Lab: DevOps - CodeCommit CodeBuild CodePipeline for Big Data Services
 
+## Day 97 | November 17, 2019 | Sunday
 
+**Today's Progress:** Today's Roadmap includes the following ML topics:
+
+- Re-Invent: Infinitely Scalable Machine Learning Algorithms
