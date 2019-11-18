@@ -837,3 +837,10 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following ML topics:
 
 - Re-Invent: Infinitely Scalable Machine Learning Algorithms
+
+## Day 98 | November 18, 2019 | Monday
+
+**Today's Progress:** Today's Roadmap includes the following ML topics:
+
+- Re: Invent 2018: AIOps: Steps Towards Autonomous Operations 
+
