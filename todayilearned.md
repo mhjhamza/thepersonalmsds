@@ -844,3 +844,8 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 
 - Re: Invent 2018: AIOps: Steps Towards Autonomous Operations 
 
+## Day 99 | November 19, 2019 | Tuesday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+- Hands-on: API Gateway with DynamoDB Request & Response Mapping
