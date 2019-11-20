@@ -849,3 +849,11 @@ AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1
 **Today's Progress:** Today's Roadmap includes the following AWS topics:
 
 - Hands-on: API Gateway with DynamoDB Request & Response Mapping
+
+## Day 100 | November 20, 2019 | Wednesday
+
+**Today's Progress:** Today's Roadmap includes the following AWS topics:
+
+- Amazon Cognito 
+- User Pool & Federated Identities
+- AWS Services Access Control
