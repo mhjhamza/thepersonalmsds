@@ -1,6 +1,6 @@
 # Amazon Kinesis
 ### Learning Material for Amazon Kinesis
-# ----------------------
+
 
 For each AWS Service, we'll follow a learning order to master it.
 
@@ -14,3 +14,10 @@ For each AWS Service, we'll follow a learning order to master it.
 ## 8) Udemy / AcloudGuru Courses (optional)
 ## 9) Documentation (optional)
 ## 10) Hands-on / Coding Exercise
+
+
+## Important Concepts
+- [ ] Producers
+- [ ] Consumers
+- [ ] Enhanced Fan Out
+- [ ] Scaling
