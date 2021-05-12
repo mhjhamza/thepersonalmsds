@@ -21,6 +21,10 @@ If you know all of these concepts you're already there!
 - [ ] PutRecord(s)
 - [ ] Batching
 - [ ] ProvisionedThroughputExceeded
+- [ ] Retried with backoff
+- [ ] KPL: Sync vs ASync API
+- [ ] Collect vs Aggregate
+- [ ] Encode/Decode with KPL & KCL
 
 ## For each AWS Service, we'll follow a learning order to master it.
 
