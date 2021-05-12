@@ -12,7 +12,8 @@
 ### Links that you should keep visiting
 | Important Links | Link |
 | -- | -- | 
-| Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
+| Keep an eye on my progress using this TIL file (2021) | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
+| Keep an eye on my progress using this TIL file (2019) | [**Todayilearned**](https://github.com/mhjhamza/thepersonalmsds/blob/master/todayilearned.md)
 | My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/mhjhamza/100DaysOfMLCode)
 | Tedtalks - Making Sense of too much data | [Click here!](https://www.ted.com/playlists/56/making_sense_of_too_much_data) |
 --------------------------------------
