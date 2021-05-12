@@ -2,6 +2,8 @@
 ### Learning Material for Amazon Kinesis
 
 ## Important Concepts to grasp
+If you know all of these concepts you're already there!
+
 - [ ] Producers: 1MB/second or 1000 msgs/s
 - [ ] Consumers: 2MB/second/shard
 - [ ] Enhanced Fan Out
