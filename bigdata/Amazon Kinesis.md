@@ -1,6 +1,19 @@
 # Amazon Kinesis
 ### Learning Material for Amazon Kinesis
 
+## Important Concepts
+- [ ] Producers: 1MB/second or 1000 msgs/s
+- [ ] Consumers: 2MB/second/shard
+- [ ] Enhanced Fan Out
+- [ ] Scaling
+- [ ] Shard / Partition
+- [ ] Retention Duration
+- [ ] Reprocess / Replay Data
+- [ ] Append Only Stream / Immutable
+- [ ] Reshard / Merge
+- [ ] 1MB Data Blob & Record Key
+- [ ] Hot Partition Problem
+- [ ] Data Blob, Sequence Number and Record Key
 
 For each AWS Service, we'll follow a learning order to master it.
 
@@ -22,8 +35,5 @@ For each AWS Service, we'll follow a learning order to master it.
 - Hands-on / Coding Exercise
 
 
-## Important Concepts
-- [ ] Producers
-- [ ] Consumers
-- [ ] Enhanced Fan Out
-- [ ] Scaling
+## Keypoints
+- 
