@@ -16,7 +16,9 @@ If you know all of these concepts you're already there!
 - [ ] 1MB Data Blob & Record Key
 - [ ] Hot Partition Problem
 - [ ] Data Blob, Sequence Number and Record Key
-- [ ] Kinesis SDK vs Kinesis Producer Library (KPL) vs Kinesis Agent
+-- [ ] Kinesis SDK
+-- [ ] Kinesis Producer Library (KPL)
+-- [ ] Kinesis Agent
 - [ ] 3rd Party Libraries: Spark, Log4J, Kafka, Nifi, Fume.
 - [ ] PutRecord(s)
 - [ ] Batching
