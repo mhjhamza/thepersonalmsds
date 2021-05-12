@@ -6,19 +6,24 @@ If you know all of these concepts you're already there!
 
 - [ ] Producers: 1MB/second or 1000 msgs/s
 - [ ] Consumers: 2MB/second/shard
-- [ ] Enhanced Fan Out
+- [ ] Enhanced Fan Out (2018) works with KCL & Lambda i.e 2MB/s/consumer
+- [ ] Enhanced Fan-out vs Standard Consumer
 - [ ] Scaling
 - [ ] Shard / Partition
 - [ ] Retention Duration
 - [ ] Reprocess / Replay Data
 - [ ] Append Only Stream / Immutable
 - [ ] Reshard / Merge
+- [ ] Splitting
+- [ ] Hot Shard
 - [ ] 1MB Data Blob & Record Key
 - [ ] Hot Partition Problem
 - [ ] Data Blob, Sequence Number and Record Key
--- [ ] Kinesis SDK
--- [ ] Kinesis Producer Library (KPL)
--- [ ] Kinesis Agent
+- [ ] Kinesis SDK
+- [ ] Kinesis Producer Library (KPL)
+- [ ] Kinesis Agent
+- [ ] Kinesis Consumer Library
+- [ ] Kinesis Connector Library
 - [ ] 3rd Party Libraries: Spark, Log4J, Kafka, Nifi, Fume.
 - [ ] PutRecord(s)
 - [ ] Batching
@@ -27,6 +32,8 @@ If you know all of these concepts you're already there!
 - [ ] KPL: Sync vs ASync API
 - [ ] Collect vs Aggregate
 - [ ] Encode/Decode with KPL & KCL
+- [ ] Checkpointing
+- [ ] Kinesis with DynamoDB (Underprovisioned DynamoDB)
 
 ## For each AWS Service, we'll follow a learning order to master it.
 
