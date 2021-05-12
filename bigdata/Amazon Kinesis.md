@@ -34,6 +34,8 @@ If you know all of these concepts you're already there!
 - [ ] Encode/Decode with KPL & KCL
 - [ ] Checkpointing
 - [ ] Kinesis with DynamoDB (Underprovisioned DynamoDB)
+- [ ] Auto Scalling & Scalling Limitations
+- [ ]  
 
 ## For each AWS Service, we'll follow a learning order to master it.
 
