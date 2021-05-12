@@ -1,7 +1,7 @@
 # Amazon Kinesis
 ### Learning Material for Amazon Kinesis
 
-## Important Concepts
+## Important Concepts to grasp
 - [ ] Producers: 1MB/second or 1000 msgs/s
 - [ ] Consumers: 2MB/second/shard
 - [ ] Enhanced Fan Out
@@ -14,8 +14,13 @@
 - [ ] 1MB Data Blob & Record Key
 - [ ] Hot Partition Problem
 - [ ] Data Blob, Sequence Number and Record Key
+- [ ] Kinesis SDK vs Kinesis Producer Library (KPL) vs Kinesis Agent
+- [ ] 3rd Party Libraries: Spark, Log4J, Kafka, Nifi, Fume.
+- [ ] PutRecord(s)
+- [ ] Batching
+- [ ] ProvisionedThroughputExceeded
 
-For each AWS Service, we'll follow a learning order to master it.
+## For each AWS Service, we'll follow a learning order to master it.
 
 - [Kinesis Overview](https://aws.amazon.com/kinesis/ "Overview")
 	- [Kinesis Data Streams Overview](https://aws.amazon.com/kinesis/video-streams/?nc=sn&loc=2&dn=1&amazon-kinesis-video-streams-resources-blog.sort-by=item.additionalFields.createdDate&amazon-kinesis-video-streams-resources-blog.sort-order=desc "Kinesis Data Streams Overview")
