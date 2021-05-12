@@ -14,6 +14,8 @@ For each AWS Service, we'll follow a learning order to master it.
 - FAQs
 - AWS Whitepapers
 - Youtube / Re:invent Deep Dive Videos
+	- [AWS re:Invent 2018: High Performance Data Streaming with Amazon Kinesis: Best Practices (ANT322-R1)](https://www.youtube.com/watch?v=jKPlGznbfZ0&ab_channel=AmazonWebServices "AWS re:Invent 2018: High Performance Data Streaming with Amazon Kinesis: Best Practices (ANT322-R1)")
+
 - Amazon Learning Library (optional)
 - Udemy / AcloudGuru Courses (optional)
 - Documentation (optional)
